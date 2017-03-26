@@ -1,0 +1,4 @@
+#:D:\Desktop_Files\23DigitalTest\23DigitalTestApp\23DigitalTestApp.xproj
+D:\Desktop_Files\23DigitalTest\23DigitalTestApp\23DigitalTestApp.xproj|D:\Desktop_Files\23DigitalTest\23DigitalTestApp.Core\23DigitalTestApp.Core.xproj
+D:\Desktop_Files\23DigitalTest\23DigitalTestApp\23DigitalTestApp.xproj|D:\Desktop_Files\23DigitalTest\23DigitalTestApp.Infrastructure\23DigitalTestApp.Infrastructure.xproj
+D:\Desktop_Files\23DigitalTest\23DigitalTestApp.Infrastructure\23DigitalTestApp.Infrastructure.xproj|D:\Desktop_Files\23DigitalTest\23DigitalTestApp.Core\23DigitalTestApp.Core.xproj
